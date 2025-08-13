@@ -16,4 +16,3 @@ class GetCodeThroughStrings {
             return totalLength;
         }
     }
-}
